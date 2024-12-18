@@ -19,7 +19,7 @@ This will probably be obsolete in the future.
 
 ## Installation
 
-1. select-tool-everywhere using manifest URL: https://raw.githubusercontent.com/KayelGee/select-tool-everywhere/master/module.json
+1. select-tool-everywhere using manifest URL: https://raw.githubusercontent.com/claydegruchy/select-tool-everywhere/master/module.json
 2. While loaded in World, enable **_Select tool everywhere"_** module.
 
 ## Usage
